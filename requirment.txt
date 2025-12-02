@@ -1,0 +1,15 @@
+# Core dependencies
+pandas==2.2.3
+numpy==2.1.2
+networkx==3.4.2
+plotly==5.24.1
+openpyxl==3.1.5
+
+# Optional but recommended for export/plotly image support
+kaleido==0.2.1
+
+# For better HTML rendering of plots
+jinja2>=3.1.4
+
+# (Optional) if you plan to use this as a script in notebooks
+ipython>=8.28.0
